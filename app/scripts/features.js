@@ -11,6 +11,7 @@ define([
 	'strut/importer/main',
 	'strut/exporter/main',
 	'strut/presentation_generator/impress/main',
+	'strut/presentation_generator/reveal/main',
 	'strut/presentation_generator/bespoke/main',
 	'strut/presentation_generator/handouts/main',
 	'strut/presentation_generator/main',
